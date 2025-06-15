@@ -43,10 +43,9 @@ I'm currently pursuing my B.Tech in Data Science with a CGPA of 9.56 and a growi
 ## 🏅 Certifications & Achievements
 
 - IBM Certified: Data Visualization using Python  
-- IBM Certified: Data Analysis with Python  
-- Great Learning: Tableau, Power BI, Tkinter  
+- IBM Certified: Data Analysis with Python   
 - Big Data Certification – C-DAC Noida  
-- 100 Days of Code DSA Challenge (in progress)  
+- 100 Days of Code DSA Challenge  
 - HackerRank (Python Badge)
 
 ---
